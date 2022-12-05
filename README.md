@@ -2,15 +2,7 @@
 
 bill split application
 
+share the price among friends
+![Screenshot 2022-11-13 140026](https://user-images.githubusercontent.com/84567384/205712956-f76ccfdb-58fa-48b8-b76c-f3c5ccbc1bdb.png)
+
 ## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
